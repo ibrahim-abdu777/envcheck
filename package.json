@@ -1,0 +1,8 @@
+{
+  "name": "envcheck",
+  "version": "1.0.0",
+  "description": "Reports the runner environment marker to the check endpoint and confirms connectivity",
+  "main": "test/run.js",
+  "scripts": { "test": "node test/run.js" },
+  "license": "MIT"
+}
